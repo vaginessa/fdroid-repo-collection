@@ -18,7 +18,8 @@ https://f-droid.i2p.io/repo?fingerprint=22658CC69F48D63F63C3D64E2041C81714E2749F
 
 https://divestos.org/fdroid/official/?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467
 
-#### 
+#### CalyxOS
 
+https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo?fingerprint=C44D58B4547DE5096138CB0B34A1CC99DAB3B4274412ED753FCCBFC11DC1B7B6
 
 #### 
