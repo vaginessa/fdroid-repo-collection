@@ -22,4 +22,6 @@ https://divestos.org/fdroid/official/?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF6
 
 https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo?fingerprint=C44D58B4547DE5096138CB0B34A1CC99DAB3B4274412ED753FCCBFC11DC1B7B6
 
-#### 
+#### Samourai Wallet repo
+
+https://repo.samourai.io/fdroid/repo?fingerprint=5318AFA280284855CF5D0027AA54517769F461D735980B1FB0854CEAE8E072A5
