@@ -25,3 +25,8 @@ https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo?fingerprint=C44D58B4547D
 #### Samourai Wallet repo
 
 https://repo.samourai.io/fdroid/repo?fingerprint=5318AFA280284855CF5D0027AA54517769F461D735980B1FB0854CEAE8E072A5
+
+#### purplei2p
+
+https://fdroid.i2pd.xyz/fdroid/repo?fingerprint=2B9564B0895EEAC039E854C6B065291B01E6A9CA02939CEDD0D35CF44BEE78E0
+
