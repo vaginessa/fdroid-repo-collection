@@ -1,7 +1,9 @@
 ## fdroid-repo-collection
 **Collection of useful F-Droid repositories**
 
+#### FFUpdater
 
+https://raw.githubusercontent.com/Tobi823/ffupdaterrepo/master/fdroid/repo?fingerprint=10E8C34D58AA10ECBB9A44F4C333D25EFB5BE1BF866084B0A6A95984D0780BC0
 
 #### Newpipe
 
