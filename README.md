@@ -29,6 +29,10 @@ https://repo.samourai.io/fdroid/repo?fingerprint=5318AFA280284855CF5D0027AA54517
 
 https://fdroid.i2pd.xyz/fdroid/repo?fingerprint=2B9564B0895EEAC039E854C6B065291B01E6A9CA02939CEDD0D35CF44BEE78E0
 
+#### Onionshare
+
+https://raw.githubusercontent.com/onionshare/onionshare-android-nightly/master/fdroid/repo?fingerprint=7E04F902940A2AEDAC30E491A5CE7ADCC74A3F73B43459E4448222F3EEE629EF
+
 _______
 
 ##### ltt.rs
