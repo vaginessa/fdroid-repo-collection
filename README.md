@@ -1,6 +1,12 @@
 ## fdroid-repo-collection
 **Collection of useful F-Droid repositories**
 
+#### StackWallet
+
+https://fdroid.stackwallet.com/
+
+https://fdroid.stackwallet.com/?fingerprint=764B4262F75750A5F620A205CEE2886F18635FBDA18DF40758F5A1A45A950F84
+
 #### FFUpdater
 
 https://raw.githubusercontent.com/Tobi823/ffupdaterrepo/master/fdroid/repo?fingerprint=10E8C34D58AA10ECBB9A44F4C333D25EFB5BE1BF866084B0A6A95984D0780BC0
